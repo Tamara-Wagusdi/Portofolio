@@ -1,6 +1,6 @@
 # Employee Performance Management Web - Web Development Projects
 The case study involves creating a dynamic website to manage employee performance at Healthy Food Company using HTML, CSS, PHP, Bootstrap, JavaScript, and MariaDB.
-# Steps to Run the Program
+## Steps to Run the Program
 1. Extract the downloaded '.zip' file.
 2. Move the 'karyawan_kel11' folder to 'C:\xampp\htdocs'.
 3. Start Apache and MySQL in XAMPP.
